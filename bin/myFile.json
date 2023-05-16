@@ -1,0 +1,542 @@
+[
+		 	{
+				"dimlevel": 26,
+				"dimlevelName": "Customer",
+				"English Language Translation": "Customer",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 4,
+				"dimlevelName": "Pool",
+				"English Language Translation": "Building Pool",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 5,
+				"dimlevelName": "Site",
+				"English Language Translation": "Site",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 153,
+				"dimlevelName": "businessUnit",
+				"English Language Translation": "Business Unit",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 147,
+				"dimlevelName": "Country",
+				"English Language Translation": "Country",
+				"NRT System Category": ""
+			},
+			 {
+				"dimlevel": 146,
+				"dimlevelName": "Region",
+				"English Language Translation": "Region",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 216,
+				"dimlevelName": "Building",
+				"English Language Translation": "Building",
+				"NRT System Category": ""
+			},
+	 		{
+				"dimlevel": 23,
+				"dimlevelName": "Object",
+				"English Language Translation": "Object",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 161,
+				"dimlevelName": "coolingSystem",
+				"English Language Translation": "Cooling System",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 154,
+				"dimlevelName": "airDistributionSystem",
+				"English Language Translation": "Air Distribution System",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 179,
+				"dimlevelName": "electricalDistributionSystem",
+				"English Language Translation": "Electrical Distribution System",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 184,
+				"dimlevelName": "fireSystem",
+				"English Language Translation": "Fire System",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 193,
+				"dimlevelName": "heatingSystem",
+				"English Language Translation": "Heating System",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 191,
+				"dimlevelName": "generalBuildingPointsSystem",
+				"English Language Translation": "General Building Points",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 202,
+				"dimlevelName": "labSystem",
+				"English Language Translation": "Lab System",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 205,
+				"dimlevelName": "powerGenerationSystem",
+				"English Language Translation": "Power Generation System",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 208,
+				"dimlevelName": "space",
+				"English Language Translation": "Space",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 230,
+				"dimlevelName": "processSystem",
+				"English Language Translation": "Process System",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 231,
+				"dimlevelName": "compressedAir",
+				"English Language Translation": "Compressed Air",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 209,
+				"dimlevelName": "cleanroom",
+				"English Language Translation": "Cleanroom",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 210,
+				"dimlevelName": "generalSpace",
+				"English Language Translation": "General Space",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 211,
+				"dimlevelName": "labRoom",
+				"English Language Translation": "Lab Room",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 212,
+				"dimlevelName": "officeSpace",
+				"English Language Translation": "Office Space",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 206,
+				"dimlevelName": "photovoltaicPlant",
+				"English Language Translation": "Photovoltaic Plant",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 203,
+				"dimlevelName": "biosafetyCabinet",
+				"English Language Translation": "Biosafety Cabinet",
+				"NRT System Category": "Air Distribution Zone Devices"
+			},
+			{
+				"dimlevel": 204,
+				"dimlevelName": "fumeHood",
+				"English Language Translation": "Fume Hood",
+				"NRT System Category": "Air Distribution Zone Devices"
+			},
+			{
+				"dimlevel": 192,
+				"dimlevelName": "generalBuildingPoints",
+				"English Language Translation": "General Building Points",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 194,
+				"dimlevelName": "heatingPlant",
+				"English Language Translation": "Heating Plant",
+				"NRT System Category": "Heating System"
+			},
+			{
+				"dimlevel": 185,
+				"dimlevelName": "fireDamper",
+				"English Language Translation": "Fire Damper",
+				"NRT System Category": ""
+			},
+				{
+				"dimlevel": 186,
+				"dimlevelName": "fireExtinguisher",
+				"English Language Translation": "Fire Extinguisher",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 187,
+				"dimlevelName": "pullStation",
+				"English Language Translation": "Pull Station",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 188,
+				"dimlevelName": "smokeDamper",
+				"English Language Translation": "Smoke Damper",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 189,
+				"dimlevelName": "smokeDetector",
+				"English Language Translation": "Smoke Detector",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 190,
+				"dimlevelName": "sprinkler",
+				"English Language Translation": "Sprinkler",
+				"NRT System Category": ""
+			},
+				{
+				"dimlevel": 180,
+				"dimlevelName": "automaticTransferSwitch",
+				"English Language Translation": "Automatic Transfer Switch",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 181,
+				"dimlevelName": "breaker",
+				"English Language Translation": "Breaker",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 182,
+				"dimlevelName": "distributionPanel",
+				"English Language Translation": "Distribution Panel",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 183,
+				"dimlevelName": "switchgear",
+				"English Language Translation": "Switchgear",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 163,
+				"dimlevelName": "chillers",
+				"English Language Translation": "Chillers",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 164,
+				"dimlevelName": "coolingTowers",
+				"English Language Translation": "Cooling Towers",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 188,
+				"dimlevelName": "smokeDamper",
+				"English Language Translation": "Smoke Damper",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 168,
+				"dimlevelName": "chiller",
+				"English Language Translation": "Chiller",
+				"NRT System Category": "Cooling System"
+			},
+			{
+				"dimlevel": 169,
+				"dimlevelName": "coolingTower",
+				"English Language Translation": "Cooling Tower",
+				"NRT System Category": "Cooling System"
+			},
+			{
+				"dimlevel": 165,
+				"dimlevelName": "condenserWaterPumps",
+				"English Language Translation": "Condenser Water Pumps",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 170,
+				"dimlevelName": "condenserWaterPump",
+				"English Language Translation": "Condenser Water Pump",
+				"NRT System Category": "Cooling System"
+			},
+			{
+				"dimlevel": 166,
+				"dimlevelName": "primaryChilledWaterPumps",
+				"English Language Translation": "Primary Chilled Water Pumps",
+				"NRT System Category": "Cooling System"
+			},
+			{
+				"dimlevel": 167,
+				"dimlevelName": "secondaryChilledWaterPumps",
+				"English Language Translation": "Secondary Chilled Water Pumps",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 171,
+				"dimlevelName": "primaryChilledWaterPump",
+				"English Language Translation": "Primary Chilled Water Pump",
+				"NRT System Category": "Cooling System"
+			},
+			{
+				"dimlevel": 172,
+				"dimlevelName": "secondaryChilledWaterPump",
+				"English Language Translation": "Secondary Chilled Water Pump",
+				"NRT System Category": "Cooling System"
+			},
+			{
+				"dimlevel": 162,
+				"dimlevelName": "coolingPlant",
+				"English Language Translation": "Cooling Plant",
+				"NRT System Category": "Cooling System"
+			},
+			{
+				"dimlevel": 33,
+				"dimlevelName": "Element",
+				"English Language Translation": "Element",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 155,
+				"dimlevelName": "airHandlingUnit",
+				"English Language Translation": "Air Handling Unit",
+				"NRT System Category": "Air Distribution"
+			},
+			{
+				"dimlevel": 159,
+				"dimlevelName": "Vendor",
+				"English Language Translation": "Vendor",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 173,
+				"dimlevelName": "exhaustFan",
+				"English Language Translation": "Exhaust Fan",
+				"NRT System Category": "Air Distribution Zone Devices"
+			},
+			{
+				"dimlevel": 174,
+				"dimlevelName": "exhaustFanBank",
+				"English Language Translation": "Exhaust Fan Bank",
+				"NRT System Category": "Air Distribution Zone Devices"
+			},
+			{
+				"dimlevel": 175,
+				"dimlevelName": "fanCoilUnit",
+				"English Language Translation": "Fan Coil Unit",
+				"NRT System Category": "Air Distribution Zone Devices"
+			},
+			{
+				"dimlevel": 176,
+				"dimlevelName": "heatPump",
+				"English Language Translation": "Heat Pump",
+				"NRT System Category": "Air Distribution Zone Devices"
+			},
+			{
+				"dimlevel": 178,
+				"dimlevelName": "unitVentilator",
+				"English Language Translation": "Unit Ventilator",
+				"NRT System Category": "Air Distribution Zone Devices"
+			},
+			{
+				"dimlevel": 177,
+				"dimlevelName": "labControlUnit",
+				"English Language Translation": "Lab Control Unit",
+				"NRT System Category": "Air Distribution Zone Devices"
+			},
+			{
+				"dimlevel": 220,
+				"dimlevelName": "fumeHoods",
+				"English Language Translation": "Fume Hoods",
+				"NRT System Category": "Air Distribution Zone Devices"
+			},
+			{
+				"dimlevel": 219,
+				"dimlevelName": "laboratory",
+				"English Language Translation": "Laboratory",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 218,
+				"dimlevelName": "laboratories",
+				"English Language Translation": "Laboratories",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 229,
+				"dimlevelName": "coolingDistribution",
+				"English Language Translation": "Cooling Distribution",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 228,
+				"dimlevelName": "heatingDistribution",
+				"English Language Translation": "Heating Distribution",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 232,
+				"dimlevelName": "electricityProduction",
+				"English Language Translation": "Electricity Production",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 223,
+				"dimlevelName": "chpUnit",
+				"English Language Translation": "CHP Unit",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 222,
+				"dimlevelName": "exhaustTerminalUnit",
+				"English Language Translation": "Exhaust Terminal Unit",
+				"NRT System Category": "Air Distribution Zone Devices"
+			},
+			{
+				"dimlevel": 221,
+				"dimlevelName": "supplyTerminalUnit",
+				"English Language Translation": "Supply Terminal Unit",
+				"NRT System Category": "Air Distribution Zone Devices"
+			},
+			{
+				"dimlevel": 217,
+				"dimlevelName": "zoneUnit",
+				"English Language Translation": "Zone Unit",
+				"NRT System Category": "Air Distribution Zone Devices"
+			},
+			{
+				"dimlevel": 195,
+				"dimlevelName": "hotWaterBoiler",
+				"English Language Translation": "Hot Water Boiler",
+				"NRT System Category": "Boiler Plant"
+			},
+			{
+				"dimlevel": 196,
+				"dimlevelName": "primaryHotWaterPumps",
+				"English Language Translation": "Primary Hot Water Pumps",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 198,
+				"dimlevelName": "secondaryHotWaterPumps",
+				"English Language Translation": "Secondary Hot Water Pumps",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 200,
+				"dimlevelName": "steamBoiler",
+				"English Language Translation": "Steam Boiler",
+				"NRT System Category": "Heating System"
+			},
+			{
+				"dimlevel": 201,
+				"dimlevelName": "heatExchanger",
+				"English Language Translation": "Heat Exchanger",
+				"NRT System Category": "Heating System"
+			},
+			{
+				"dimlevel": 207,
+				"dimlevelName": "solarPanel",
+				"English Language Translation": "Solar Panel",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 160,
+				"dimlevelName": "Account",
+				"English Language Translation": "Account",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 157,
+				"dimlevelName": "cvBox",
+				"English Language Translation": "CV Box",
+				"NRT System Category": "Air Distribution Zone Devices"
+			},
+			{
+				"dimlevel": 156,
+				"dimlevelName": "vavBox",
+				"English Language Translation": "VAV Box",
+				"NRT System Category": "Air Distribution Zone Devices"
+			},
+			{
+				"dimlevel": 101,
+				"dimlevelName": "subelement",
+				"English Language Translation": "Sub Element",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 197,
+				"dimlevelName": "primaryHotWaterPump",
+				"English Language Translation": "Primary Hot Water Pump",
+				"NRT System Category": "Heating System"
+			},
+			{
+				"dimlevel": 199,
+				"dimlevelName": "secondaryHotWaterPump",
+				"English Language Translation": "Secondary Hot Water Pump",
+				"NRT System Category": "Heating System"
+			},
+			{
+				"dimlevel": 213,
+				"dimlevelName": "heatExchangers",
+				"English Language Translation": "Heat Exchangers",
+				"NRT System Category": "Heating System"
+			},
+			{
+				"dimlevel": 214,
+				"dimlevelName": "hotWaterBoilers",
+				"English Language Translation": "Hot Water Boilers",
+				"NRT System Category": "Heating System"
+			},
+			{
+				"dimlevel": 215,
+				"dimlevelName": "steamBoilers",
+				"English Language Translation": "Steam Boilers",
+				"NRT System Category": "Heating System"
+			},
+			{
+				"dimlevel": 225,
+				"dimlevelName": "chilledBeams",
+				"English Language Translation": "Chilled Beams",
+				"NRT System Category": "Cooling System"
+			},
+			{
+				"dimlevel": 224,
+				"dimlevelName": "absorptionChiller",
+				"English Language Translation": "Absorption Chiller",
+				"NRT System Category": "Cooling System"
+			},
+			{
+				"dimlevel": 226,
+				"dimlevelName": "mixingCircuit",
+				"English Language Translation": "Mixing Circuit",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 227,
+				"dimlevelName": "airCompressor",
+				"English Language Translation": "Air Compressor",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 134,
+				"dimlevelName": "subelement2",
+				"English Language Translation": "Sub Element 2",
+				"NRT System Category": ""
+			},
+			{
+				"dimlevel": 135,
+				"dimlevelName": "subelement3",
+				"English Language Translation": "Sub Element 3",
+				"NRT System Category": ""
+			}
+		]
